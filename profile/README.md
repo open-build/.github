@@ -7,14 +7,14 @@
 <h4 align="center">Mentoring junior developers through open source collaboration, sponsored by Buildly.</h4>
 
 <p align="center">
-    <a href="https://github.com/openbuild/open-source/commits/master">
-    <img src="https://img.shields.io/github/last-commit/openbuild/open-source.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/openbuild/BabbleBeaver/commits/master">
+    <img src="https://img.shields.io/github/last-commit/openbuild/BabbleBeaver.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub last commit">
-    <a href="https://github.com/openbuild/open-source/issues">
-    <img src="https://img.shields.io/github/issues-raw/openbuild/open-source.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/openbuild/BabbleBeaver/issues">
+    <img src="https://img.shields.io/github/issues-raw/openbuild/BabbleBeaver.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub issues">
-    <a href="https://github.com/openbuild/open-source/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/openbuild/open-source.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/openbuild/BabbleBeaver/pulls">
+    <img src="https://img.shields.io/github/issues-pr-raw/openbuild/BabbleBeaver.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests">
 </p>
       
