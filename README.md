@@ -5,7 +5,7 @@
 <h1 align="center">
   Open Build: Empowering Open Source Development
   <br>
-  <a href="https://github.com/openbuild"><img src="https://github.com/open-build/.github/blob/main/logo.png?raw=true" alt="Open Build Logo"></a>
+  <a href="https://github.com/openbuild"><img src="https://github.com/open-build/.github/blob/main/OpenBuild.png?raw=true" alt="Open Build Logo"></a>
 </h1>
 
 <h4 align="center">Mentoring junior developers through open source collaboration, sponsored by Buildly.</h4>
