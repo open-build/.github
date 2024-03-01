@@ -1,7 +1,3 @@
-# .github
-
-# Open Build
-
 <h1 align="center">
   Open Build: Empowering Open Source Development
   <br>
